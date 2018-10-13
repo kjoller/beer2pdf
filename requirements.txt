@@ -1,0 +1,2 @@
+Jinja2==2.10
+git+https://github.com/kjoller/pybeerxml.git
